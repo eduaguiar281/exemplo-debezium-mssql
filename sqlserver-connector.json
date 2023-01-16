@@ -9,6 +9,7 @@
         "database.user" : "sa",
         "database.password" : "Password!",
         "database.names" : "testDB",
+        "table.include.list": "dbo.Clientes",
         "schema.history.internal.kafka.bootstrap.servers" : "kafka:9095",
         "schema.history.internal.kafka.topic": "schema-changes.inventory",
         "database.encrypt": "false"
